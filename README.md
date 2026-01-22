@@ -47,7 +47,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Ahmad-Safadi/Ahmad-Safadi/output/snake.svg" alt="Snake animation" />
+<img src="https://activity-graph.herokuapp.com/graph?username=Ahmad-Safadi&theme=dracula&hide_border=true" alt="Snake animation" />
 
 ###
 
