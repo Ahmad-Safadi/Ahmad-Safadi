@@ -4,7 +4,7 @@
 
 ### 💻 Full-Stack Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Python+%7C+JavaScript+Developer;Building+Modern+Web+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Python+%7C+JavaScript+Developer;Building+Modern+Web+Applications" alt="Typing SVG" />
 
 </div>
 
