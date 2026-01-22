@@ -1,8 +1,3 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
-
-###
 
 <h2 align="left">Hi 👋! My name is Ahmad</h2>
 
@@ -47,18 +42,11 @@
 
 <br clear="both">
 
-<img src="https://activity-graph.herokuapp.com/graph?username=Ahmad-Safadi&theme=dracula&hide_border=true" alt="Activity Graph" />
 
 ###
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Ahmad-Safadi.Ahmad-Safadi&"  />
-</div>
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
 </div>
 
 ###
