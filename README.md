@@ -1,8 +1,8 @@
 <div align="center">
   
-# 👋 مرحباً، أنا أحمد
+# 👋 Hi, I'm Ahmad
 
-### 💻 Full-Stack Developer | مطور ويب متكامل
+### 💻 Full-Stack Developer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Python+%7C+JavaScript+Developer;Building+Modern+Web+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
 
@@ -10,11 +10,11 @@
 
 ---
 
-## 📊 إحصائيات GitHub
+## 📊 GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ahmad-Safadi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-Safadi&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-Safadi&layout=compact&langs_count=4&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9" />
 </div>
 
 <div align="center">
@@ -23,24 +23,21 @@
 
 ---
 
-## 🛠️ التقنيات والأدوات
+## 🛠️ Skills & Tools
 
 <div align="center">
 
-### Frontend Development
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
+### Frontend & Web
+<img src="https://skillicons.dev/icons?i=html,css,js" />
 
-### Backend Development
-<img src="https://skillicons.dev/icons?i=python,nodejs,express,django,flask" />
-
-### Tools & Others
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,docker" />
+### Backend & Python
+<img src="https://skillicons.dev/icons?i=python,flask" />
 
 </div>
 
 ---
 
-## 📈 نشاطي على GitHub
+## 📈 GitHub Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmad-Safadi&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=FF6B6B" alt="Activity Graph" />
@@ -48,7 +45,7 @@
 
 ---
 
-## 🏆 الإنجازات
+## 🏆 Achievements
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Ahmad-Safadi&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
@@ -56,7 +53,7 @@
 
 ---
 
-## 📫 تواصل معي
+## 📫 Contact Me
 
 <div align="center">
   
@@ -68,7 +65,7 @@
 
 ---
 
-## 💡 عني
+## 💡 About Me
 
 ```javascript
 const ahmad = {
@@ -76,35 +73,13 @@ const ahmad = {
     code: ["JavaScript", "Python", "HTML", "CSS"],
     technologies: {
         frontEnd: {
-            js: ["React"],
-            css: ["Tailwind", "Bootstrap"]
+            js: ["JavaScript"],
+            css: ["HTML", "CSS"]
         },
         backEnd: {
-            python: ["Django", "Flask"],
-            js: ["Node.js", "Express"]
-        },
-        databases: ["MongoDB", "PostgreSQL", "MySQL"],
-        tools: ["Git", "Docker", "VS Code"]
+            python: ["Flask"]
+        }
     },
-    currentFocus: "Building scalable web applications",
+    currentFocus: "Building modern web applications",
     funFact: "Always excited to learn new technologies! 🚀"
 };
-```
-
----
-
-<div align="center">
-  
-### 📊 Profile Views
-  
-<img src="https://komarev.com/ghpvc/?username=Ahmad-Safadi&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-
-### ⭐ من فضلك لا تنسَ عمل Star للمشاريع المفيدة!
-
-**"Code is like humor. When you have to explain it, it's bad."**
-
----
-
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
-
-</div>
