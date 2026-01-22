@@ -1,16 +1,40 @@
-## Hi there 👋
+<!-- ================== المتغيرات للتعديل ================== -->
+<!-- غير هذه القيم لتخصيص بورتفوليوك -->
 
-<!--
-**Ahmad-Safadi/Ahmad-Safadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- الاسم والعنوان -->
+[NAME]: # "اسمك هنا"
+[TITLE]: # "Full-Stack Developer"
 
-Here are some ideas to get you started:
+<!-- وصفك القصير -->
+[DESCRIPTION]: # "مرحبًا! أنا مطور برمجيات مهتم بتطوير تطبيقات الويب والتعلم المستمر."
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- المهارات -->
+[SKILLS]: # "Python, JavaScript, C++, HTML, CSS"
+
+<!-- المشاريع -->
+[PROJECTS]: # "Project1|https://github.com/username/project1|وصف المشروع 1;Project2|https://github.com/username/project2|وصف المشروع 2"
+
+<!-- طرق التواصل -->
+[CONTACT]: # "LinkedIn: https://linkedin.com/in/username | Email: example@email.com"
+
+<!-- ===================================================== -->
+
+# [NAME] - [TITLE]
+
+## About Me
+[DESCRIPTION]
+
+## Skills
+- Python
+- JavaScript
+- C++
+- HTML
+- CSS
+
+## Projects
+- [Project1](https://github.com/username/project1): وصف المشروع 1
+- [Project2](https://github.com/username/project2): وصف المشروع 2
+
+## Contact
+LinkedIn: https://linkedin.com/in/username  
+Email: example@email.com
