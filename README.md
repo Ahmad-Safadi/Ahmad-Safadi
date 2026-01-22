@@ -60,14 +60,6 @@
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ahmad-Safadi&theme=matrix&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
-</div>
-
----
-
 ## 📫 Contact Me
 
 <div align="center">
@@ -79,37 +71,3 @@
 </div>
 
 ---
-
-## 💡 About Me
-
-```python
-class Ahmad:
-    def __init__(self):
-        self.role = "Python Developer & Penetration Tester"
-        self.languages = ["Python", "JavaScript", "HTML", "CSS", "Bash"]
-        self.os = ["Ubuntu", "Linux", "Kali Linux"]
-        
-        self.skills = {
-            "backend": {
-                "python": ["Flask", "Python Libraries"],
-                "web": ["Vanilla JavaScript", "HTML5", "CSS3"]
-            },
-            "cybersecurity": {
-                "pentesting": True,
-                "security_tools": ["Kali Linux Tools", "Custom Scripts"],
-                "focus": "Web Application Security"
-            },
-            "system_admin": {
-                "linux": ["Ubuntu", "Linux Administration"],
-                "shell": "Bash Scripting"
-            }
-        }
-        
-        self.current_focus = "Building secure web applications with Flask"
-        self.interests = ["Cybersecurity", "Ethical Hacking", "Python Automation"]
-    
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something secure together 🔐")
-
-me = Ahmad()
-me.say_hi()
