@@ -47,7 +47,7 @@
 
 <br clear="both">
 
-<img src="https://activity-graph.herokuapp.com/graph?username=Ahmad-Safadi&theme=dracula&hide_border=true" alt="Snake animation" />
+<img src="https://activity-graph.herokuapp.com/graph?username=Ahmad-Safadi&theme=dracula&hide_border=true" alt="Activity Graph" />
 
 ###
 
